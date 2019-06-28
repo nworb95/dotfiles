@@ -101,8 +101,5 @@ eval "$(pyenv virtualenv-init -)"
 
 SPACESHIP_VENV_SHOW=false
 
-
-export SOCRATA_TOKEN='BoFVyCfaTEVFs5eoWNhTTakbt'
-export SOCRATA_SECRET_TOKEN='2C-lk_eAYkd-V2unLeYFiRFYVlDtNX9ug8ta'
 alias mysql-launch="export GDK_SCALE=1 && mysql-workbench"
 export POSTGRES_PASSWORD='AdoradoSTL1~'
