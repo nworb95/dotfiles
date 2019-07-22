@@ -102,4 +102,4 @@ eval "$(pyenv virtualenv-init -)"
 SPACESHIP_VENV_SHOW=false
 
 alias mysql-launch="export GDK_SCALE=1 && mysql-workbench"
-export POSTGRES_PASSWORD='AdoradoSTL1~'
+
